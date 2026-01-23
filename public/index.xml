@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Sheepdog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on The Sheepdog</description>
+    <image>
+      <title>The Sheepdog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.154.2</generator>
+    <language>en</language>
+    <copyright>2026 Jeronimo de Rossi Molina</copyright>
+    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;At the nexus between critical administrative theory, the rigor of Law, and data engineering, we design solutions for high-complexity environments. Our professional practice is based on the deconstruction of managerialist models in favor of evidence-based governance and fiduciary security. We work on the articulation of institutional intelligence and cutting-edge technology to ensure the integrity of transactions and regulatory predictability.&lt;/p&gt;
+&lt;h2 id=&#34;action-and-research-vectors&#34;&gt;Action and Research Vectors:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;RIG-AI&lt;/strong&gt;: Predictive legislative intelligence using Machine Learning models (Sabiá-3) for monitoring institutional and governmental risks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

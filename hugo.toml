@@ -1,0 +1,174 @@
+baseURL = "https://the-sheepdog.github.io"
+title = "The Sheepdog"
+copyright = "© 2026 Jeronimo de Rossi Molina"
+theme = [ "PaperMod" ]
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+mainsections = [ "posts", "papers" ]
+
+[minify]
+disableXML = true
+
+[pagination]
+disableAliases = false
+pagerSize = 5
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+  [languages.en.taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+  topics = "topics"
+
+[[languages.en.menu.main]]
+name = "Archive"
+url = "archives"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Categories"
+url = "categories/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "About"
+url = "about/"
+weight = 20
+
+[languages.pt]
+languageName = "Português"
+weight = 2
+title = "The Sheepdog"
+
+  [languages.pt.taxonomies]
+  category = "Categorias"
+  tag = "Tags"
+  series = "Séries"
+  topics = "Tópicos"
+
+[[languages.pt.menu.main]]
+name = "Arquivo"
+url = "archives/"
+weight = 5
+
+[[languages.pt.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[[languages.pt.menu.main]]
+name = "Categorias"
+url = "categories/"
+weight = 10
+
+[[languages.pt.menu.main]]
+name = "Series"
+url = "series/"
+weight = 10
+
+[[languages.pt.menu.main]]
+name = "Sobre"
+url = "about/"
+weight = 20
+
+  [languages.pt.params]
+  languageAltTitle = "Português Brasileiro"
+
+    [languages.pt.params.profileMode]
+    enabled = false
+    title = "PaperMod"
+    imageUrl = "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+    imageTitle = "ProfileMode image"
+    subtitle = "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+
+      [[languages.pt.params.profileMode.buttons]]
+      name = "Blog"
+      url = "posts"
+
+      [[languages.pt.params.profileMode.buttons]]
+      name = "Profile Mode"
+      url = "https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+env = "production"
+description = "Jeronimo Molina's research & projects portfolio blog"
+author = "Jeronimo Molina"
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowAllPagesInArchive = true
+ShowPageNums = true
+ShowToc = true
+images = [ "images/papermod-cover.png" ]
+
+  [params.profileMode]
+  enabled = false
+  title = "PaperMod"
+  imageUrl = "#"
+  imageTitle = "my image"
+
+    [[params.profileMode.buttons]]
+    name = "Archives"
+    url = "archives"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = "The Sheepdog"
+  Content = """
+👋 Welcome to The Sheepdog, my research & projects portfolio, 
+where administrative intersection merge with Law and machine learning to understand our world.
+"""
+
+  [[params.socialIcons]]
+  name = "github"
+  title = "Check my GitHub repositories"
+  url = "https://github.com/jeronimo-molina"
+
+  [[params.socialIcons]]
+  name = "X"
+  title = "Checkout my X profile"
+  url = "https://x.com/jdermolina"
+
+  [params.assets]
+  disableHLJS = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.x]
+disableInlineCSS = true
