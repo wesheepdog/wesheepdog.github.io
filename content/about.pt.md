@@ -9,7 +9,7 @@ No nexo entre a teoria administrativa crítica, o rigor do Direito e a engenhari
 
 ## Vetores de Ação e Pesquisa:
 
-**RIG-AI**: Inteligência legislativa preditiva utilizando modelos de Machine Learning (Sabiá-3) para o monitoramento de riscos institucionais e governamentais.
+**RIG-AI**: Inteligência legislativa preditiva utilizando modelos de Machine Learning para o monitoramento de riscos institucionais e governamentais.
 
 **SafeTrade Escrow**: Arquitetura de custódia fiduciária e técnica via Blockchain, garantindo o cumprimento de marcos contratuais em ativos tecnológicos e imobiliários.
 

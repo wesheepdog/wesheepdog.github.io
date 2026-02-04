@@ -9,7 +9,7 @@ At the nexus between critical administrative theory, the rigor of Law, and data 
 
 ## Action and Research Vectors:
 
-**RIG-AI**: Predictive legislative intelligence using Machine Learning models (Sabiá-3) for monitoring institutional and governmental risks.
+**RIG-AI**: Predictive legislative intelligence using Machine Learning models for monitoring institutional and governmental risks.
 
 **SafeTrade Escrow**: Fiduciary and technical custody architecture via Blockchain, ensuring compliance with contractual milestones in technological and real estate assets.
 
