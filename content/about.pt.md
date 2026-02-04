@@ -5,11 +5,13 @@ ShowToc: false
 ---
 ## Introdução
 
-No nexo entre a teoria administrativa crítica, o rigor do Direito e a engenharia de dados, projetamos soluções para ambientes de alta complexidade. Nossa prática profissional baseia-se na desconstrução de modelos gerencialistas em favor de uma governança baseada em evidências e segurança fiduciária. Trabalhamos na articulação da inteligência institucional e tecnologia de ponta para garantir a integridade das transações e a previsibilidade regulatória.
+No nexo entre a teoria administrativa crítica, o rigor do Direito e a engenharia de dados, projetamos soluções para ambientes de alta complexidade. Sou **Jeronimo Molina**, Doutorando em Administração na Universidade de Caxias do Sul, pesquisando sobre processo de tomada de decisão com Modelos Baseados em Agentes Generativos (GABM em inglês), para auxiliar Gestores Públicos melhorarem suas agendas.
+
+Nossa prática profissional baseia-se na desconstrução de modelos gerencialistas em favor de uma governança baseada em evidências e segurança fiduciária. Trabalhamos na articulação da inteligência institucional e tecnologia de ponta para garantir a integridade das transações e a previsibilidade regulatória.
 
 ## Vetores de Ação e Pesquisa:
 
-**RIG-AI**: Inteligência legislativa preditiva utilizando modelos de Machine Learning para o monitoramento de riscos institucionais e governamentais.
+**RIG-AI**: Inteligência legislativa preditiva utilizando GABM para o monitoramento de riscos institucionais e governamentais.
 
 **SafeTrade Escrow**: Arquitetura de custódia fiduciária e técnica via Blockchain, garantindo o cumprimento de marcos contratuais em ativos tecnológicos e imobiliários.
 

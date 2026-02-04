@@ -5,11 +5,13 @@ ShowToc: false
 ---
 ## Introduction
 
-At the nexus between critical administrative theory, the rigor of Law, and data engineering, we design solutions for high-complexity environments. Our professional practice is based on the deconstruction of managerialist models in favor of evidence-based governance and fiduciary security. We work on the articulation of institutional intelligence and cutting-edge technology to ensure the integrity of transactions and regulatory predictability.
+At the nexus between critical administrative theory, the rigor of Law, and data engineering, we design solutions for high-complexity environments. I'm **Jeronimo Molina**, PhD candidate in Administration at Universidade de Caxias do Sul, research about decision making process with Generative Agent Based Modeling (GABM), for helping Public Managers improve their agenda.
+
+My professional practice is based on the deconstruction of managerialist models in favor of evidence-based governance and fiduciary security. We work on the articulation of institutional intelligence and cutting-edge technology to ensure the integrity of transactions and regulatory predictability.
 
 ## Action and Research Vectors:
 
-**RIG-AI**: Predictive legislative intelligence using Machine Learning models for monitoring institutional and governmental risks.
+**RIG-AI**: Predictive legislative intelligence using GABM for monitoring institutional and governmental risks.
 
 **SafeTrade Escrow**: Fiduciary and technical custody architecture via Blockchain, ensuring compliance with contractual milestones in technological and real estate assets.
 
@@ -36,4 +38,4 @@ MOLINA, Jeronimo. Digital Political Marketing. Interdisciplinary Journal of Appl
 
 MOLINA, J. de Rossi. Libertarianism in Power: an analysis of the possible impact of libertarian thought on public management in Caxias do Sul. Interdisciplinary Journal of Applied Sciences, v. 4, p. 8, 2019.
 
-> "Complexity should not be fought with more bureaucracy, but with analytical clarity and automation of trust."## Academic Background
+> "Complexity should not be fought with more bureaucracy, but with analytical clarity and automation of trust."

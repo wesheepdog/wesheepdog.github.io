@@ -1,5 +1,5 @@
-baseURL = "https://the-sheepdog.github.io"
-title = "The Sheepdog"
+baseURL = "https://wesheepdog.github.io"
+title = "Sheepdog"
 copyright = "© 2026 Jeronimo de Rossi Molina"
 theme = [ "PaperMod" ]
 enableInlineShortcodes = true
@@ -145,7 +145,7 @@ images = [ "images/papermod-cover.png" ]
   Title = "The Sheepdog"
   Content = """
 👋 Welcome to The Sheepdog, my research & projects portfolio, 
-where administrative intersection merge with Law and machine learning to understand our world.
+where administrative intersection merge with Law and GABM to understand our world, inside a box.
 """
 
   [[params.socialIcons]]
